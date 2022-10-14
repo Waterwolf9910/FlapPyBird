@@ -223,7 +223,7 @@ def mainGame(movementInfo):
     playerRot     =  45   # player's rotation
     playerVelRot  =   3   # angular speed
     playerRotThr  =  20   # rotation threshold
-    playerFlapAcc =  -9   # players speed on flapping
+    playerFlapAcc =  -6   # players speed on flapping
     playerFlapped = False # True when player flaps
 
 
